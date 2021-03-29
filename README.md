@@ -1,2 +1,2 @@
-# My_way_in_DS
+# My_way
 This is all my notebook with HW
